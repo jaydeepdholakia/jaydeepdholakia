@@ -5,8 +5,8 @@ I code in hopes of becoming ninja blockchain developer and also make videos!
 Here is something I have been doing lately:
 
 - 🔭 I’m about to start working on **Generative NFT**
-- 👷‍♀️ I’m currently working on **30 Days Smart Contract (A personal challenge)**
-- 🌱 I’m currently learning **React JS**
+- 👷‍♀️ I’m currently working on **[30 Days Smart Contract (A personal challenge)](https://github.com/jaydeepdholakia/30-Days-Of-Smart-Contract)**
+- 🌱 I’m currently learning **[React JS](https://github.com/jaydeepdholakia/ToDo-List-React-App)**
 - 👯 I’m looking to collaborate on **Any exciting projects**
 - 🤔 I’m looking for help with **How to create NFT Marketplace**
 - 💬 Ask me about **Dapps/YouTube/Tanmay Bhat 😅**
